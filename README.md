@@ -13,7 +13,7 @@
 
 ## 📌 PROJECT TITLE  
 
--TEXT SUMMARIZATION TOOL
+TEXT SUMMARIZATION TOOL
 ##DESCRIPTION
 Text summarization is the process of shortening a long text document by generating a concise and coherent version that captures the key information. It’s widely used in applications like news summarization, academic research digests, and automatic document classification.
 
